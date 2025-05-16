@@ -1,0 +1,141 @@
+[
+  {
+    "id": "1",
+    "title": "Multi-modal Urban Transit Network Design Considering Reliability: Multi-objective Bi-level Optimization",
+    "authors": "Amir Hossein Barahimi; Alireza Eydi; Abdolah Aghaie",
+    "venue": "RELIAB. ENG. SYST. SAF.",
+    "year": 2021,
+    "abstract": "Due to the presence of transportation infrastructure in metropolitan areas, authorities often seek to modify the capacity of existing urban transportation links. Therefore, to meet travel demands, it is necessary to consider public transport (PT) modes and carry out systematic planning. In this research, assuming the existence of urban transportation infrastructure, we develop a mathematical model to determine the amount of link capacity increase for the dual-mode PT network. Such an increase in capacity can improve the network capacity and travel time reliabilities under both normal and peak traffic conditions. To investigate this issue, travel demand is assumed to follow a lognormal distribution under normal conditions. Then, the total travel time and flow through the links are calculated and applied to the model using the Monte Carlo method. In this study, we assume that the links of both transport modes forming a path are interdependent. Moreover, due to NP-hardness, we propose the PSO algorithm with dynamic parameters to solve the multi-objective bi-level model. Considering two public transport modes, we develop the algorithm for a part of the urban transportation network in Tehran, Iran.",
+    "keywords": "Transportation Capacity development Travel time reliability Capacity reliability Dual-mode urban transportation network PSO algorithm",
+    "url": "https://doi.org/10.1016/j.ress.2021.107922"
+  },
+  {
+    "id": "2",
+    "title": "Research on Intelligent Route Planning Based on Ant Colony Algorithm",
+    "authors": "Haiying Li",
+    "venue": "JOURNAL OF PHYSICS: CONFERENCE SERIES",
+    "year": 2021,
+    "abstract": "In this paper, we propose a zoning plan for reasonable travel time for self driving travelers. There are 201 5A scenic spots in the country. Travelers who want to visit all scenic spots in the face of many time constraints need to optimize travel routes to ensure maximum travel income. Based on this idea, an optimal path analysis based on ant colony algorithm is proposed. After considering time constraints, the time window constraint is transformed into a target function. Constraint, the hard time constraints which must satisfy the limit of driving time limit and the limit of the opening time of the scenic spots are transformed into soft constraints, and the improved ant colony algorithm is used to iterate.With the help of the improved ant colony algorithm, the optimal path selection satisfying the time constraint is obtained. Taking Jiangsu Province as an example, this article draws a tourist route map of Jiangsu province.",
+    "keywords": "Partition optimization; Ant colony algorithm; Hard time constraint; Analytic hierarchy process.",
+    "url": "https://doi.org/10.1088/1742-6596/1813/1/012053"
+  },
+  {
+    "id": "3",
+    "title": "Research on The Intelligent Assignment Model of Urban Traffic Planning Based on Optimal Path Optimization Algorithm",
+    "authors": "Yuan Lu; Shengyong Yao; Yifeng Yao",
+    "venue": "SCI. PROGRAM.",
+    "year": 2022,
+    "abstract": "Congestion and complexity in the ﬁeld of highway transportation have risen steadily in recent years, particularly because the growth rate of vehicles has far outpaced the growth rate of roads and other transportation facilities. To ensure smooth traﬃc,reduce traﬃc congestion, improve road safety, and reduce the negative impact of air pollution on the environment, an increasingnumber of traﬃc management departments are turning to new scientiﬁcally developed technology. (e urban road traﬃc issimulated by nodes and sidelines in this study, which is combined with graph theory, and the information of real-time changes ofroad traﬃc is added to display and calculate the relevant data and parameters in the road. On this foundation, the dynamic pathoptimization algorithm model is discussed in the context of high informationization. Although the improved algorithm’s optimalpath may not be the conventional shortest path, its actual travel time is the shortest, which is more in line with users’ actual travelneeds to a large extent.",
+    "url": "https://doi.org/10.1155/2022/3002923"
+  },
+  {
+    "id": "4",
+    "title": "Path Planning of Multi-parcel UAV Based on Improved Simulated Annealing Algorithm",
+    "authors": "Suqing Yang; Xiaolin Xu; Hao Su; Shiyi Gao",
+    "venue": "OTHER CONFERENCES",
+    "year": 2022,
+    "abstract": "Aiming at the path planning problem of logistics unmanned aerial vehicles (UAVs) that can deliver multiple packages, this paper comprehensively considers the maximum travel distance of UAVs, the maximum carrying capacity, the geographical location of delivery centers and delivery points, and the priority of packages, with the shortest flight distance and the highest customer satisfaction as the objectives. A multi-objective programming model with multiple constraints is constructed and an improved simulated annealing algorithm is designed. By constructing a specific solution space and calculating the probability of accepting new solutions, the global optimal solution can be obtained by avoiding local optima as much as possible. Finally, the sensitivity of initial temperature, temperature gradient, and iteration times of simulated annealing is analyzed. The results show that the simulated annealing algorithm can efficiently plan the UAV navigation path and minimize the cost. When the initial temperature is 180℃~ 220℃, the temperature gradient is 4℃, and the number of iterations is between 200 and 300, the probability of obtaining the global optimal solution is the highest. The research results can provide guidance and reference value for the application of UAVs in logistics distribution systems.",
+    "url": "https://doi.org/10.1117/12.2634643"
+  },
+  {
+    "id": "5",
+    "title": "Robot Path Planning By Using Improved A* Algorithm and Dynamic Window Method",
+    "authors": [
+      "Yicheng Sun",
+      "Xianliang Zhao",
+      "Jianbo Wu",
+      "Yazhou Yu"
+    ],
+    "year": 2022,
+    "venue": "2022 2ND INTERNATIONAL CONFERENCE ON ELECTRICAL ENGINEERING ...",
+    "abstract": "With the market for automated robots expanding, path planning in automated robots has become an important research topic. In this paper, a hybrid algorithm based on the improved A* algorithm and dynamic window method is presented to meet the needs of global optimal and real-time barrier avoidance. The computational model of the proposed algorithm is as follows. First, the traditional A* algorithm is improved; the improved A* algorithm can determine a globally optimal path for the robot. Second, the local path planning algorithm based on the dynamic window method can circumvent obstacles that appear in the robot's travel path in real time, effectively resolving the problem encountered in traditional robot path planning wherein obstacles cannot be avoided dynamically. The experimental results show that the combination of the A* algorithm and dynamic window method can improve the path planning of robots in complex dynamic environments.",
+    "keywords": [
+      "A* algorithm",
+      "Dynamic window method",
+      "Path planning",
+      "Random route-planning method"
+    ],
+    "url": "https://doi.org/10.1109/ICEEMT56362.2022.9862697"
+  },
+  {
+    "id": "6",
+    "title": "An Optimal Round-Trip Route Planning Method for Tourism Based on Improved Genetic Algorithm",
+    "authors": [
+      "Sha Cao"
+    ],
+    "year": 2022,
+    "venue": "Computational Intelligence and Neuroscience",
+    "abstract": "The optimization of the travel route for a round-trip is not only a customized demand made by a large number of independently guided tourists but also an essential practical issue for the development of tourism management and tourism businesses. In light of this, the study presents a genetic algorithm (GA) as a potential solution to the problem of how to visit a number of tourist destinations within a constrained area in order to quickly determine the shortest tourist route. To traverse areas or regions with the least amount of physical exertion, select the correct and shortest route. Examining all potential routes from the starting point to the destination will allow you to determine the quickest route. A condensed explanation of the enhanced GA is provided to start. The second step is to analyze the model’s construction and solution in detail. Next, an enhanced genetic algorithm (IGA) is utilized to determine the optimal travel route for visiting a variety of tourist attractions. In accordance with the optimal travel route, the required number of days and specific travel arrangements are then estimated. In conclusion, the GA is optimized, and a simulation examination of each individual’s average path convergence is conducted. The results of the experiments indicate that the IGA can be effectively applied to the path planning of multiple scenic locations, the selection of the shortest travel route, the reduction of travel expenses, and the saving of travel time. This has important implications for both research and practical applications, as well as a high research significance and practical value.",
+    "keywords": [],
+    "url": "https://doi.org/10.1155/2022/7665874"
+  },
+  {
+    "id": "7",
+    "title": "Eco-Friendly Disaster Evacuation Framework for 6G Connected and Autonomous Vehicular Networks",
+    "authors": [
+      "G. Raja",
+      "Gayathri Saravanan"
+    ],
+    "year": 2022,
+    "venue": "IEEE Transactions on Green Communications and Networking",
+    "abstract": "Crowd and evacuation management have been active areas of research and study over recent years. Connected Autonomous Vehicles (CAVs) could provide safe and vital life-saving reinforcement when evacuating populations from a large-scale disaster site. However, navigation in disaster-affected environments is vulnerable to the presence of unpredictable moving obstacles. Existing solutions perform optimal route determination while considering the presence of a single rescue vehicle. To optimize path planning and enhance energy efficiency in the presence of a fleet of rescue vehicles and Unmanned Aerial Vehicles (UAVs), multiple sources and target destinations, we propose a Multi-Agent Deep Reinforcement Dijkstra (MADRD) algorithm in a sixth generation (6G) assisted environment to achieve cooperative navigation in the Route Planning Framework. The MADRD algorithm allows vehicles to learn from the experiences and behavior of other CAVs to obtain an optimal path from the source to the affected target site. Route selection and throttle parameters are optimized to achieve efficient fuel consumption, reduced travel time and lower traffic congestion. We simulate the Route Planning Framework on a large-scale real-world road network. The experimental results indicate that MADRD achieves 40% less fuel consumption, 45% higher road throughput and 34% less evacuation time than its state-of-the-art counterparts.",
+    "keywords": [
+      "Connected autonomous vehicles",
+      "UAV",
+      "6G",
+      "deep reinforcement learning",
+      "multi-agent deep deterministic policy gradient",
+      "emergency evacuation",
+      "route planning"
+    ],
+    "url": "https://doi.org/10.1109/TGCN.2022.3163764"
+  },
+  {
+    "id": "8",
+    "title": "Research on Optimal Route Planning for Self-Driving Tour Based on Road Network Structure",
+    "authors": [
+      "Ping Zong",
+      "Yao Han",
+      "Chenbo Xu"
+    ],
+    "year": 2022,
+    "venue": "Security and Communication Networks",
+    "abstract": "Today’s social and economic development continues to improve people’s quality of life, and private cars are widely popularized, and self-driving tours have developed. The rapid development of self-driving travel has played an important role in the development of the national economy, and self-driving travel has become popular. Because the development of self-driving tours has caused some problems, the road network structure has become more and more complex, and the roads have become very congested. Especially during the holidays, there are more private cars in tourist attractions and the roads are more congested. How to use the information of roads and attractions and then choose the optimal travel route becomes particularly important. In response to this problem, we first analyze the topology of the road network, then analyze the accessibility of scenic spots and related factors that affect self-driving travel, and use the A* algorithm, Dijkstra algorithm, and other calculation methods to calculate the optimal path. The experiment found that there are many influencing factors of self-driving travel, and the road network structure has the greatest influence on it. The A* algorithm has obvious advantages over the Dijkstra algorithm.",
+    "keywords": [],
+    "url": "https://doi.org/10.1155/2022/6588288"
+  },
+  {
+    "id": "9",
+    "title": "Electric Vehicle Charging Path Planning Considering Coupled Faults in Distribution-Transportation Network",
+    "authors": [
+      "Wanxin Fu",
+      "Minjie Wei"
+    ],
+    "year": 2023,
+    "venue": "Frontiers in Energy Research",
+    "abstract": "Once a distribution network failure occurs, it can spread to the traffic network through the coupling point, causing electric vehicles (EVs) to change their charging paths. To address this problem, this paper presents an EV charging path planning approach that considers coupled faults in the distributiontransportation network. First, the cascading failure model of the distributiontransportation network and the model for choosing charging stations are presented to transfer the information of coupling faults propagation and coupling points power interaction to the follow-up path planning scheme. Second, a time occupancy road resistance model that considers congested and unobstructed traffic states is proposed to calculate the road section travel time, based on the analysis results of the evolution process of road traffic flow queuing using traffic wave theory. For the speed and density parameters in the traffic wave model, values are calculated using the logistics speed-density model and the time occupancy model. Third, a multi-objective optimization function that integrates travel cost and coupling network operation state is determined from the perspective of hindering the propagation of coupling faults. The function is solved to recommend optimal charging paths using an improved A* searching algorithm. Finally, a 90-bus road network and three 33-bus distribution networks are selected as examples to verify the veracity and validity of the proposed model and method. The research results demonstrate that the proposed method can alleviate traffic congestion.",
+    "keywords": [
+      "electric vehicle",
+      "traffic congestion",
+      "road impedance model",
+      "traffic wave model",
+      "coupling faults"
+    ],
+    "url": "https://doi.org/10.3389/fenrg.2023.1206749"
+  },
+  {
+    "id": "10",
+    "title": "Research on Parallel Parking Path Planning Based on The G-PSOA",
+    "authors": [
+      "Zongfeng Liu",
+      "Baoyun Wang",
+      "Qiang Wang",
+      "Jinxia Liu"
+    ],
+    "year": 2023,
+    "venue": "Other Conferences",
+    "abstract": "This paper addresses the problems of discontinuous curvature and complex path tracking of parallel parking paths for autonomous driving, establishes its vehicle kinematic model based on Ackermann steering theory; determines the collision constraints of the parking process, and uses B-spline curve theory to plan the parking path. On this basis, a multi-objective optimization method of Genetic-Particle Swarm Optimization Algorithm(G-PSOA) is proposed to optimize the design of the spline curve control points with the vehicle travel trajectory length, wheel angle, and curvature of the path curve as the optimization objectives of Path Planning (PP). The simulation results show that the proposed optimization algorithm can quickly search for the optimal path compared with the traditional Particle Swarm Optimization (PSO), shorten the PP length by 4.2%, and improve the smoothness and continuity of the parking process, thus reducing the complexity of the path tracking control.",
+    "keywords": [],
+    "url": "https://doi.org/10.1117/12.2689900"
+  }
+]
