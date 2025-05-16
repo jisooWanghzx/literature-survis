@@ -1,19 +1,248 @@
 [
-  {
-    "id": "paper1",
-    "title": "A Novel Visualization Technique",
-    "authors": ["John Doe", "Jane Smith"],
-    "year": 2023,
-    "url": "https://example.com",
-    "tags": ["Visualization", "Survey"]
-  },
-  {
-    "id": "paper2",
-    "title": "Interactive Graph Analysis",
-    "authors": ["Alice Brown", "Bob Green"],
-    "year": 2022,
-    "url": "https://example2.com",
-    "tags": ["Graph", "Analysis"]
-  }
+    {
+        "id": "1",
+        "title": "Multi-modal Urban Transit Network Design Considering Reliability: Multi-objective Bi-level Optimization",
+        "authors": [
+            "Amir Hossein Barahimi",
+            "Alireza Eydi",
+            "Abdolah Aghaie"
+        ],
+        "year": 2021,
+        "url": "https://doi.org/10.1016/j.ress.2021.107922",
+        "tags": [
+            "Transportation Capacity",
+            "Travel time reliability",
+            "Capacity reliability",
+            "Dual-mode urban transportation network",
+            "PSO algorithm"
+        ],
+        "abstract": "Multi-modal urban transit network design considering reliability: multi-objective bi-level optimization. Due to the presence of transportation infrastructure in metropolitan areas, authorities often seek to modify the capacity of existing urban transportation links.",
+        "doi": "https://doi.org/10.1016/j.ress.2021.107922",
+        "venue": "RELIAB. ENG. SYST. SAF.",
+        "keywords": [
+            "Transportation Capacity",
+            "Travel time reliability",
+            "Capacity reliability",
+            "Dual-mode urban transportation network",
+            "PSO algorithm"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Research on Intelligent Route Planning Based on Ant Colony Algorithm",
+        "authors": [
+            "Haiying Li"
+        ],
+        "year": 2021,
+        "url": "https://doi.org/10.1088/1742-6596/1813/1/012053",
+        "tags": [
+            "Partition optimization",
+            "Ant colony algorithm",
+            "Hard time constraint",
+            "Analytic hierarchy process"
+        ],
+        "abstract": "In this paper, we propose a zoning plan for reasonable travel time for self driving travelers. The optimal path analysis based on ant colony algorithm is proposed.",
+        "doi": "https://doi.org/10.1088/1742-6596/1813/1/012053",
+        "venue": "JOURNAL OF PHYSICS: CONFERENCE SERIES",
+        "keywords": [
+            "Partition optimization",
+            "Ant colony algorithm",
+            "Hard time constraint",
+            "Analytic hierarchy process"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Research on The Intelligent Assignment Model of Urban Traffic Planning Based on Optimal Path Optimization Algorithm",
+        "authors": [
+            "Yuan Lu",
+            "Shengyong Yao",
+            "Yifeng Yao"
+        ],
+        "year": 2022,
+        "url": "https://doi.org/10.1155/2022/3002923",
+        "tags": [
+            "Urban Traffic",
+            "Optimal Path",
+            "Optimization Algorithm"
+        ],
+        "abstract": "Congestion and complexity in highway transportation have increased due to the rapid growth of vehicles, requiring dynamic path optimization.",
+        "doi": "https://doi.org/10.1155/2022/3002923",
+        "venue": "SCI. PROGRAM.",
+        "keywords": [
+            "Urban Traffic",
+            "Optimal Path",
+            "Optimization Algorithm"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Path Planning of Multi-parcel UAV Based on Improved Simulated Annealing Algorithm",
+        "authors": [
+            "Suqing Yang",
+            "Xiaolin Xu",
+            "Hao Su",
+            "Shiyi Gao"
+        ],
+        "year": 2022,
+        "url": "https://doi.org/10.1117/12.2634643",
+        "tags": [
+            "UAV",
+            "Path Planning",
+            "Simulated Annealing"
+        ],
+        "abstract": "Multi-objective programming model for UAV path planning with improved simulated annealing algorithm to minimize travel distance and maximize customer satisfaction.",
+        "doi": "https://doi.org/10.1117/12.2634643",
+        "venue": "OTHER CONFERENCES",
+        "keywords": [
+            "UAV",
+            "Path Planning",
+            "Simulated Annealing"
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Robot Path Planning By Using Improved A* Algorithm and Dynamic Window Method",
+        "authors": [
+            "Yicheng Sun",
+            "Xianliang Zhao",
+            "Jianbo Wu",
+            "Yazhou Yu"
+        ],
+        "year": 2022,
+        "url": "doi:10.1109/ICEEMT56362.2022.9862697",
+        "tags": [
+            "A* algorithm",
+            "Dynamic window method",
+            "Path planning"
+        ],
+        "abstract": "Hybrid path planning using improved A* algorithm and dynamic window method for automated robots to enhance pathfinding in dynamic environments.",
+        "doi": "doi:10.1109/ICEEMT56362.2022.9862697",
+        "venue": "2ND INTERNATIONAL CONFERENCE ON ELECTRICAL ENGINEERING",
+        "keywords": [
+            "A* algorithm",
+            "Dynamic window method",
+            "Path planning"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "An Optimal Round-Trip Route Planning Method for Tourism Based on Improved Genetic Algorithm",
+        "authors": [
+            "Sha Cao"
+        ],
+        "year": 2022,
+        "url": "https://doi.org/10.1155/2022/7665874",
+        "tags": [
+            "Tourism",
+            "Route Planning",
+            "Genetic Algorithm"
+        ],
+        "abstract": "Optimization of travel routes for round-trips using an improved genetic algorithm to reduce travel time and expenses.",
+        "doi": "https://doi.org/10.1155/2022/7665874",
+        "venue": "COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE",
+        "keywords": [
+            "Tourism",
+            "Route Planning",
+            "Genetic Algorithm"
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Eco-Friendly Disaster Evacuation Framework for 6G Connected and Autonomous Vehicular Networks",
+        "authors": [
+            "G. Raja",
+            "Gayathri Saravanan"
+        ],
+        "year": 2022,
+        "url": "DOI:10.1109/TGCN.2022.3163764",
+        "tags": [
+            "Disaster Evacuation",
+            "6G Networks",
+            "Autonomous Vehicles",
+            "Route Planning"
+        ],
+        "abstract": "Multi-Agent Deep Reinforcement Dijkstra algorithm for disaster evacuation using CAVs and UAVs in 6G networks.",
+        "doi": "DOI:10.1109/TGCN.2022.3163764",
+        "venue": "IEEE TRANSACTIONS ON GREEN COMMUNICATIONS AND NETWORKING",
+        "keywords": [
+            "Disaster Evacuation",
+            "6G Networks",
+            "Autonomous Vehicles",
+            "Route Planning"
+        ]
+    },
+    {
+        "id": "8",
+        "title": "Research on Optimal Route Planning for Self-Driving Tour Based on Road Network Structure",
+        "authors": [
+            "Ping Zong",
+            "Yao Han",
+            "Chenbo Xu"
+        ],
+        "year": 2022,
+        "url": "https://doi.org/10.1155/2022/6588288",
+        "tags": [
+            "Self-Driving",
+            "Route Planning",
+            "Road Network"
+        ],
+        "abstract": "Optimal self-driving route planning using A* and Dijkstra algorithms to address congestion issues.",
+        "doi": "https://doi.org/10.1155/2022/6588288",
+        "venue": "SECURITY AND COMMUNICATION NETWORKS",
+        "keywords": [
+            "Self-Driving",
+            "Route Planning",
+            "Road Network"
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Electric Vehicle Charging Path Planning Considering Coupled Faults in Distribution-Transportation Network",
+        "authors": [
+            "Wanxin Fu",
+            "Minjie Wei"
+        ],
+        "year": 2023,
+        "url": "https://doi.org/10.3389/fenrg.2023.1206749",
+        "tags": [
+            "EV Charging",
+            "Path Planning",
+            "Coupled Faults"
+        ],
+        "abstract": "Path planning for EV charging considering coupled faults in distribution-transportation networks.",
+        "doi": "https://doi.org/10.3389/fenrg.2023.1206749",
+        "venue": "FRONTIERS IN ENERGY RESEARCH",
+        "keywords": [
+            "EV Charging",
+            "Path Planning",
+            "Coupled Faults"
+        ]
+    },
+    {
+        "id": "10",
+        "title": "Research on Parallel Parking Path Planning Based on The G-PSOA",
+        "authors": [
+            "Zongfeng Liu",
+            "Baoyun Wang",
+            "Qiang Wang",
+            "Jinxia Liu"
+        ],
+        "year": 2023,
+        "url": "https://doi.org/10.1117/12.2689900",
+        "tags": [
+            "Parallel Parking",
+            "Path Planning",
+            "G-PSOA"
+        ],
+        "abstract": "Parallel parking path planning using G-PSOA to improve parking efficiency and path smoothness.",
+        "doi": "https://doi.org/10.1117/12.2689900",
+        "venue": "OTHER CONFERENCES",
+        "keywords": [
+            "Parallel Parking",
+            "Path Planning",
+            "G-PSOA"
+        ]
+    }
 ]
 
