@@ -1,0 +1,19 @@
+[
+  {
+    "id": "paper1",
+    "title": "A Novel Visualization Technique",
+    "authors": ["John Doe", "Jane Smith"],
+    "year": 2023,
+    "url": "https://example.com",
+    "tags": ["Visualization", "Survey"]
+  },
+  {
+    "id": "paper2",
+    "title": "Interactive Graph Analysis",
+    "authors": ["Alice Brown", "Bob Green"],
+    "year": 2022,
+    "url": "https://example2.com",
+    "tags": ["Graph", "Analysis"]
+  }
+]
+
